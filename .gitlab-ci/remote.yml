@@ -1,0 +1,4 @@
+remote:
+  stage: build
+  script:
+    - echo "remote"
